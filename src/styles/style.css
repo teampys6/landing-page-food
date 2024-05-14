@@ -349,6 +349,10 @@ footer {
         cursor: pointer;
     }
 
+    #mobile_btn i {
+        color: #1D1D1D;
+    }
+
     #mobile_menu.active {
         display: flex;
         flex-direction: column;
